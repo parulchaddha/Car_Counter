@@ -47,7 +47,7 @@ This project utilizes the YOLO (You Only Look Once) object detection model to co
 - The video stream with visualizations is displayed in real-time.
 - The total count of cars is continuously updated and displayed on the video.
 
-**Screenshots of output:**
+## Screenshots of output:
 
 ![Screenshot1](p1.png)
 ![Screenshot2](p2.png)
