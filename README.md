@@ -50,3 +50,4 @@ This project utilizes the YOLO (You Only Look Once) object detection model to co
 **Screenshots of output:**
 
 ![Screenshot1](p1.png)
+![Screenshot2](p2.png)
