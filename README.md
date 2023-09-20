@@ -49,4 +49,4 @@ This project utilizes the YOLO (You Only Look Once) object detection model to co
 
 **Screenshots of output:**
 
-![Screenshot1](https://drive.google.com/file/d/1glfV7f6lgNSzbIaut8qkHi6Zy5Ddh584/view?usp=sharing)
+![Screenshot1](p1.png)
